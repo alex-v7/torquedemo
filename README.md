@@ -72,6 +72,8 @@ This document serves as a structured checklist and evidence log for deploying a 
 
 > Screenshot of launch logs showing Terraform execution steps:
 > ![Launch Logs Screenshot](screenshots/launch_logs.png)
+<img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/198b6667-77e7-4f87-a61c-fdcbce83b348" />
+
 
 ---
 
@@ -126,5 +128,6 @@ This document serves as a structured checklist and evidence log for deploying a 
 - [x] GitHub Repo Link: [https://github.com/alex-v7/torquedemo.git]
 - [x] README and Terraform files
 - [x] Screenshots uploaded to `screenshots/` folder
+
 
 
